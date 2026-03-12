@@ -1,4 +1,5 @@
-# Splitwise Booking Management System
+# Splitwise Booking Services
+
 
 ## Overview
 
